@@ -1,4 +1,4 @@
-GitHub Copilot: # Raspberry Pi Network Scanner
+GitHub Copilot: #Raspberry Pi Network Scanner
 
 This Python script scans your local network for Raspberry Pi devices. It uses the `scapy` library to send ARP requests to each IP address in your subnet and checks the MAC address of the responding devices. Raspberry Pi devices typically have MAC addresses that start with "b8:27:eb", "dc:a6:32", or "e4:5f:01".
 
